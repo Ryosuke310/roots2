@@ -4,7 +4,7 @@
     padding: 0;
     background: #93c1f9;
     font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-    font-weight: 500;
+    font-weight: bold;
     font-size: 16px;
 }
 img{
@@ -31,7 +31,6 @@ a{
 p{
     margin: 5px auto ;
     color: #ffffff;
-    font-size: 12px;
     font-weight: bold;
     text-align: left;
 }
@@ -48,9 +47,9 @@ button{
     appearance: none;
 }
 .button {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
-    padding: 15px 0;
+    padding: 15px 2%;
     position: relative;
     border-radius: 60px;
     -webkit-transition: none;
