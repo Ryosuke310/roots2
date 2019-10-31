@@ -3,12 +3,15 @@
     margin: 0;
     padding: 0;
     background: #93c1f9;
+    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+    font-weight: 500;
 }
 img{
     width: 100%;
 }
 .fv-txt{
     margin: 20px auto 40px;
+    padding: 0 5%;
 }
 .end{
     margin: 0 0 50px 0;
